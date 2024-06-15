@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Anthony Nash, a senior computational chemist and software engineer. 
-- 👀 I’m interested in modelling protein folding using Molecular Dynamics, particularly metalloproteases, fibril tissues of the human extracellular matrix, and membrane proteins. I am also interested in drug discovery epidemiology of real-world electronic healthcare records.
-- 🌱 I’m currently learning Multilevel Models.
-- 💞️ I want to collaborate on transmembrane protein modelling using Molecular Dynamics.
+- 👋 I am a senior computational chemist, theoretical biophysicist, software engineer, and clinical epidemiologist.
+- 👀 I’m interested in modelling protein folding using Molecular Dynamics, particularly metalloproteases, fibril tissues of the human extracellular matrix, and membrane proteins. I am also interested in the drug discovery epidemiology of real-world electronic healthcare records.
+- 🌱 I’m currently Neural Network Potential Molecular Dynamics
+- 💞️ I want to collaborate on transmembrane protein modelling using next-generation Molecular Dynamics. 
 
 <!---
 acnash/acnash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
