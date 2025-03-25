@@ -1,6 +1,6 @@
-- 👋 I am a senior computational chemist, theoretical biophysicist, software engineer, and clinical epidemiologist.
+- 👋 I am a senior computational computational biophysicist, software engineer, and clinical epidemiologist.
 - 👀 I’m interested in modelling protein folding using Molecular Dynamics, particularly metalloproteases, fibril tissues of the human extracellular matrix, and membrane proteins. I am also interested in the drug discovery epidemiology of real-world electronic healthcare records.
-- 🌱 I’m currently Neural Network Potential Molecular Dynamics
+- 🌱 I’m currently implementing Neural Network Potential Molecular Dynamics simulations
 - 💞️ I want to collaborate on transmembrane protein modelling using next-generation Molecular Dynamics. 
 
 <!---
