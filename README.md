@@ -1,7 +1,14 @@
-- 👋 I am a senior computational computational biophysicist, software engineer, and clinical epidemiologist.
-- 👀 I’m interested in modelling protein folding using Molecular Dynamics, particularly metalloproteases, fibril tissues of the human extracellular matrix, and membrane proteins. I am also interested in the drug discovery epidemiology of real-world electronic healthcare records.
-- 🌱 I’m currently implementing Neural Network Potential Molecular Dynamics simulations
-- 💞️ I want to collaborate on transmembrane protein modelling using next-generation Molecular Dynamics. 
+👋 Hi, I'm a **senior computational chemist** with expertise spanning **software development**, **mathematical biology**, **molecular biology**, **theoretical biophysics**, and **clinical epidemiology**.
+
+Most of my contributions have been to **private company repositories**, but you'll find a few public projects here that reflect my interests in:
+
+* 🧪 **Computational chemistry scripting**
+* 🧬 **Molecular dynamics extensions & pharmacophore modeling**
+* 📈 **Statistical analysis of stock trading**
+
+I'm passionate about building tools that bridge science and software—feel free to explore or reach out!
+
+---
 
 <!---
 acnash/acnash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
