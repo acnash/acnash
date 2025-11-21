@@ -16,6 +16,10 @@ Outside of research, I am an **independent market trader** and an **internationa
 
 Science, for me, is a vocation, **pursued for understanding, not financial gain**.
 
+For further information, check out my CVs:</br>
+- <a href="https://github.com/acnash/acnash/blob/main/Business%20CV.pdf">Business CV</a>
+- <a href="https://github.com/acnash/acnash/blob/main/Academic%20CV.pdf">Academic CV</a>
+- <a href="https://github.com/acnash/acnash/blob/main/Publications.pdf">Publication list</a>
 
 ---
 
