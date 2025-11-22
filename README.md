@@ -1,4 +1,4 @@
-### 🧬 About Me
+### 🧬 Dr Anthony Nash PhD
 
 I am a polymath scientist and engineer with a PhD in **Mathematical Biology and Biophysical Chemistry** from the **University of Warwick**. My work spans **theoretical biophysics**, **computational chemistry (cheminformatics and quantum chemistry)**, **bioinformatics**, **machine learning**, and **systems design**.
 
