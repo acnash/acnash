@@ -2,6 +2,8 @@
 
 I am a polymath scientist and engineer with a PhD in **Mathematical Biology and Biophysical Chemistry** from the **University of Warwick**. My work spans **theoretical biophysics**, **computational chemistry (cheminformatics and quantum chemistry)**, **bioinformatics**, **machine learning**, and **systems design**.
 
+<hr style="height:3px; border:none; background-color:red;" />
+
 My scientific expertise lies in **molecular modelling of protein dynamics**, particularly the **MMP family** (including **MMP14**, a membrane-anchored metalloprotease). I develop computational methods for **membrane protein systems**, **free-energy landscapes**, and **shape-derived pharmacophore modelling** of drug binding sites.
 
 I have also contributed to **drug discovery pipelines**, integrating **computational chemistry** with **statistical analysis of real-world healthcare data** from UK General Practice and hospital records.
